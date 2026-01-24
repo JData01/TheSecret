@@ -41,3 +41,8 @@ This repository is intentionally minimal.
 
 Silence is part of the commitment.
 
+## Acknowledgment
+
+This work was made possible by the extensive research, discussion, and preservation of knowledge contributed over many years by the *The Secret* community. Studying the history of the people, places, and artifacts involved has provided invaluable insight and a deeper appreciation for the context surrounding these puzzles. This effort would not have been possible without the contributions of previous and current researchers.
+
+This repository is shared with respect for that ongoing effort.
